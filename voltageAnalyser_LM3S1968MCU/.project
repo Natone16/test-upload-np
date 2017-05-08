@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Nathan_project</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.ScannerConfigBuilder</name>
+			<triggers>full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.ti.ccstudio.core.ccsNature</nature>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
+		<nature>org.eclipse.cdt.core.ccnature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>isqrt.c</name>
+			<type>1</type>
+			<location>C:/Courses/ENCE361/StellarisWare/utils/isqrt.c</location>
+		</link>
+		<link>
+			<name>rit128x96x4.c</name>
+			<type>1</type>
+			<location>C:/Courses/ENCE361/StellarisWare/boards/ek-lm3s1968/drivers/rit128x96x4.c</location>
+		</link>
+		<link>
+			<name>ustdlib.c</name>
+			<type>1</type>
+			<location>C:/Courses/ENCE361/StellarisWare/utils/ustdlib.c</location>
+		</link>
+	</linkedResources>
+</projectDescription>

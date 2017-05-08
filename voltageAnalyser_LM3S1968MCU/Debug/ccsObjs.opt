@@ -1,0 +1,1 @@
+"./waveform.obj" "./ustdlib.obj" "./startup_ccs.obj" "./rit128x96x4.obj" "./peak_to_peak.obj" "./my_timer.obj" "./my_adc.obj" "./isqrt.obj" "./frequency.obj" "./display.obj" "./buttons.obj" "./VRMS.obj" "./Scheduler.obj" "./MSE.obj" -l"libc.a" -l"C:\Courses\ENCE361\StellarisWare\driverlib\ccs-cm3\Debug\driverlib-cm3.lib" "../lm3s1968.cmd" 
